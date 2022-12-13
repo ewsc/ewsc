@@ -1,5 +1,5 @@
-<p align="center"
-<a href="https://github.com/gthanksg"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=gthanksg&show_icons=true&locale=en&layout=compact&theme=dark" alt="ovi" /></a>
+<p align="center">
+  <a href="https://github.com/gthanksg"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=gthanksg&show_icons=true&locale=en&layout=compact&theme=react&card_width=400&langs_count=6&hide_border=true" alt="ovi" /></a>
 </p>
 <p align="center">
 <a href="https://github.com/gthanksg"><img src="https://komarev.com/ghpvc/?username=gthanksg&label=Visitors&color=0e75b6&style=flat" alt=""></a>
