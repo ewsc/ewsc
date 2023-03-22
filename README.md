@@ -8,7 +8,7 @@
 
 <hr>
 
-<img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="18">  Hi! My name is Azam and I'm software engineer from Tashkent, Uzbekistan.
+<img src="https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif" alt='Hi' width="18">  Hi! My name is Azam and I'm software engineer from Tashkent, Uzbekistan.
 
 🌍  I'm currently based in Minsk, Belarus.
 
@@ -17,6 +17,11 @@
 👨‍💻  Open to work!
 
 <hr>
+
+
+<p align="center">
+  <img src='https://i.imgur.com/2s657q5.png'>
+</p>
 
 <p align="center">
   <a href="https://github.com/gthanksg"><img src="https://github-readme-streak-stats.herokuapp.com/?user=gthanksg&theme=github-dark&hide_border=true&card_width=495" alt="mystreak"/></a><br>
