@@ -18,12 +18,11 @@
 
 <hr>
 
-
-<p align="center">
-  <img src='https://i.imgur.com/2s657q5.png'>
-</p>
-
 <p align="center">
   <a href="https://github.com/gthanksg"><img src="https://github-readme-streak-stats.herokuapp.com/?user=gthanksg&theme=github-dark&hide_border=true&card_width=495" alt="mystreak"/></a><br>
   <a href="https://github.com/gthanksg"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=gthanksg&show_icons=true&locale=en&layout=compact&theme=github_dark&card_width=450&langs_count=6&hide_border=true" alt="ovi" /></a>
+</p>
+
+<p align="right">
+  <img src='https://i.imgur.com/2s657q5.png'>
 </p>
