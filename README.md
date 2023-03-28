@@ -14,7 +14,7 @@
 
 🎓  Student, currently studying at the <a href="https://bsuir.by/fksis">BSUIR</a>.
 
-👨‍💻  Open to <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">work!</a>
+👨‍💻  Open to <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" traget="_blank">work!</a>
 
 <hr>
 
