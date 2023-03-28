@@ -12,9 +12,9 @@
 
 🌍  I'm currently based in Minsk, Belarus.
 
-🎓  Student, currently studying at the BSUIR.
+🎓  Student, currently studying at the <a href="https://bsuir.by/fksis">BSUIR</a>.
 
-👨‍💻  Open to work!
+👨‍💻  Open to <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">work!</a>
 
 <hr>
 
