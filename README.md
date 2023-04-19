@@ -20,5 +20,6 @@
 
 <p align="center">
   <a href="https://github.com/gthanksg"><img src="https://github-readme-streak-stats.herokuapp.com/?user=gthanksg&theme=github-dark&hide_border=true&card_width=495" alt="mystreak"/></a><br>
-  <a href="https://github.com/gthanksg"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=gthanksg&show_icons=true&locale=en&layout=compact&theme=github_dark&card_width=450&langs_count=6&hide_border=true" alt="ovi" /></a>
+  <a href="https://github.com/gthanksg"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=gthanksg&show_icons=true&locale=en&layout=compact&theme=github_dark&card_width=450&langs_count=6&hide_border=true" alt="ovi" /></a><br>
+  <a href="https://open.spotify.com/user/p0rhzkek041th6t4bfz6kkf42?si=68a74d9e131146ef"><img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=p0rhzkek041th6t4bfz6kkf42&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)"></a>
 </p>
