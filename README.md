@@ -4,7 +4,6 @@
 <a href="https://ewsc.wtf/"><img src="https://img.shields.io/badge/Website-613f75?style=plaslitc&logo=CodeNewbie&logoColor=white"></a>
 <a href="https://monkeytype.com/profile/ewsc"><img src="https://img.shields.io/badge/Monkeytype-FFBE00?style=plaslitc&logo=Monkeytype&logoColor=black"></a>
 <a href="mailto:alamovazamjon@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?&style=plastic-square&logo=gmail&logoColor=white"></a>
-<a href="https://steamcommunity.com/id/gthanksg"><img src="https://img.shields.io/badge/Steam-2a475e?style=plaslitc&logo=Steam&logoColor=white"></a>
 <a href="https://t.me/gthanksg"><img src="https://img.shields.io/badge/Telegram-0088CC?&style=plastic-square&logo=telegram&logoColor=white"></a>
 </p>
 <hr>
