@@ -13,5 +13,5 @@
 </p>
 <hr>
 <p align="center">
-  <img src="https://cataas.com/cat?type=small"></img>
+  <img src="https://cataas.com/cat/gif"></img>
 </p>
