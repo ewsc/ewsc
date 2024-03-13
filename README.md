@@ -2,7 +2,6 @@
 <a href="https://github.com/ewsc"><img src="https://komarev.com/ghpvc/?username=gthanksg&label=Visitors&color=0e75b6&style=flat" alt=""></a>
 <a href="https://www.linkedin.com/in/azam-alamov/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=plastic-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://ewsc.wtf/"><img src="https://img.shields.io/badge/Website-613f75?style=plaslitc&logo=CodeNewbie&logoColor=white"></a>
-<a href="https://monkeytype.com/profile/ewsc"><img src="https://img.shields.io/badge/Monkeytype-FFBE00?style=plaslitc&logo=Monkeytype&logoColor=black"></a>
 <a href="mailto:alamovazamjon@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?&style=plastic-square&logo=gmail&logoColor=white"></a>
 <a href="https://t.me/gthanksg"><img src="https://img.shields.io/badge/Telegram-0088CC?&style=plastic-square&logo=telegram&logoColor=white"></a>
 </p>
